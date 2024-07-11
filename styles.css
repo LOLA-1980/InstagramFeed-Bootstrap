@@ -1,0 +1,33 @@
+.fs-13 {
+    font-size: 13px;
+}
+
+.h-240 {
+    height: 240px;
+}
+
+
+.border-icons {
+    border: 0.5px solid rgb(226, 219, 219);
+    padding: 8px;
+}
+
+.left {
+    position: absolute;
+    left: -105px !important;
+}
+
+.button-blue {
+    background-color: blue;
+    border: none;
+    width: 10px;
+    height: 10px;
+}
+
+.button-gray {
+    background-color: gray;
+    border: none;
+    width: 10px;
+    height: 10px;
+}
+
